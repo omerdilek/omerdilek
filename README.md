@@ -1,7 +1,7 @@
 ## Welcome
 
 - 📫 Discord: ```@bubss```
-- 📫 Email: omerdilek@litecore.me
+- 📫 Email: omer.dilek@tuta.io
 
 ## My Website
 https://litecore.me
